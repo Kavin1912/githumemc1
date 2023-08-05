@@ -1,1 +1,11 @@
 create test1.txt file
+
+terminal -> git clone url(from code->url copy)
+git status -> to see the status
+ when add new test2.txt it shown error
+ git add test2.txt (to add in the staging area)   ((git folder->git copy folder->working folder->staging area))
+git status(error remove but not added)
+git commit -m "test2.txt file added"(to add in the git copy folder)
+git push origin main (to add in the git folder)
+
+insert->add->commit->push
