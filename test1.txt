@@ -9,3 +9,5 @@ git commit -m "test2.txt file added"(to add in the git copy folder)
 git push origin main (to add in the git folder)
 
 insert->add->commit->push
+
+in order to get file from the github (type nthe command git pull)
